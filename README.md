@@ -5,6 +5,7 @@
 一、html/html5 
 二、css/css3 less sass
 三、JavaScript(es5/es6/dom/bom)
+1.new操作符干了什么，模拟实现new 操作符
 四、nodejs
 五、工具：webpack、正则
 六、框架源码(lodash、axios、vue(及生态社区源码)、react)
